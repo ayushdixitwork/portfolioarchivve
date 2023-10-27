@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.themezinho.net	TRUE	/	FALSE	1999999999	PHPSESSID	b26254ba1490ae4f3790f2e019a5bb13
+themezinho.net	TRUE	/	FALSE	1999999999	PHPSESSID	4f4399e9041bae55679247c5ed96994f
+
