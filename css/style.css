@@ -2391,6 +2391,8 @@ a {
   text-align:center;
   margin-top: 0px;
   margin-left: 190px;
+  align-items: center;
+  justify-content: center;
 }
 .btn{
   border: 1px solid #3498db;
